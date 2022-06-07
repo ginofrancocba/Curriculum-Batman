@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    background-color: #E6E6E6;
+}
+h1 {
+    text-align: center;
+    color: #005677;
+    background-color: #c4c4c4;
+    font-size: 35px;
+}
+.subtitulos {
+    color: #005677;
+    background-color: #c4c4c4;
+}
+.sinPuntos {
+    list-style:none
+}
+.padding20 {
+    padding-left: 78px;
+}
+.piePagina {
+    
+    padding-left: 1000px;
+    color: #ffffff;
+    background-color: #005677;
+}
+strong {
+    font-weight: bold;
+}
+.p {
+    text-align: left;
+}
